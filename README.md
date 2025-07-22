@@ -1,2 +1,5 @@
 # playwright-practice
-Practicing testing with playwright tool
+Practice testing with playwright tool
+
+## To Install Playwright
+https://playwright.dev/docs/intro
