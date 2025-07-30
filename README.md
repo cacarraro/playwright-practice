@@ -5,7 +5,7 @@ I have a background on test automation and experience in building ui automation 
 ## To Install Playwright
 https://playwright.dev/docs/intro
 
-## Microsoft get started "exercises":
+## Microsoft get started 'exercises':
 https://learn.microsoft.com/en-us/training/modules/build-with-playwright/
 - On /microsoft_exercises I used the given example on the playwright documentation to explore what is - presented in the microsoft learn page.
 - The goal was to explore playwright and search for how to do the basics using python, with that I have a better understanding of what I can try out in the study projects to come.
